@@ -1,0 +1,15 @@
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Infrastructure\bin\Debug\net9.0\TouristGuide.Infrastructure.deps.json
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Infrastructure\bin\Debug\net9.0\TouristGuide.Infrastructure.dll
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Infrastructure\bin\Debug\net9.0\TouristGuide.Infrastructure.pdb
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Infrastructure\bin\Debug\net9.0\TouristGuide.Core.dll
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Infrastructure\bin\Debug\net9.0\TouristGuide.Core.pdb
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Infrastructure\obj\Debug\net9.0\TouristGuide.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Infrastructure\obj\Debug\net9.0\TouristGuide.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Infrastructure\obj\Debug\net9.0\TouristGuide.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Infrastructure\obj\Debug\net9.0\TouristGuide.Infrastructure.AssemblyInfo.cs
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Infrastructure\obj\Debug\net9.0\TouristGuide.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Infrastructure\obj\Debug\net9.0\TouristG.638DDF2D.Up2Date
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Infrastructure\obj\Debug\net9.0\TouristGuide.Infrastructure.dll
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Infrastructure\obj\Debug\net9.0\refint\TouristGuide.Infrastructure.dll
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Infrastructure\obj\Debug\net9.0\TouristGuide.Infrastructure.pdb
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Infrastructure\obj\Debug\net9.0\ref\TouristGuide.Infrastructure.dll

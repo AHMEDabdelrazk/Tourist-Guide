@@ -1,0 +1,11 @@
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Core\bin\Debug\net9.0\TouristGuide.Core.deps.json
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Core\bin\Debug\net9.0\TouristGuide.Core.dll
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Core\bin\Debug\net9.0\TouristGuide.Core.pdb
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Core\obj\Debug\net9.0\TouristGuide.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Core\obj\Debug\net9.0\TouristGuide.Core.AssemblyInfoInputs.cache
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Core\obj\Debug\net9.0\TouristGuide.Core.AssemblyInfo.cs
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Core\obj\Debug\net9.0\TouristGuide.Core.csproj.CoreCompileInputs.cache
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Core\obj\Debug\net9.0\TouristGuide.Core.dll
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Core\obj\Debug\net9.0\refint\TouristGuide.Core.dll
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Core\obj\Debug\net9.0\TouristGuide.Core.pdb
+C:\Users\Samir\Desktop\Temp A.Abdelrazik curr\projects\WebApps\TouristGuide\TouristGuide.Core\obj\Debug\net9.0\ref\TouristGuide.Core.dll
